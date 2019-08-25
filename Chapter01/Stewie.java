@@ -3,6 +3,5 @@ public class Stewie {
       System.out.println("//////////////////////");
       System.out.println("|| Victory is mine! ||");
       System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
-
    }
 }
