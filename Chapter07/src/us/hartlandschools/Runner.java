@@ -2,6 +2,7 @@ package us.hartlandschools;
 
 class Runner {
 
+    // comments to see how intelliJ handles origin changes
     void printArray( int[] numbers ){
         if( numbers == null ) return;
         System.out.print("[");
